@@ -4,6 +4,8 @@
 
 This is an application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
 
+Deployed to Heroku at: https://notetaker-uoft.herokuapp.com/notes
+
 
 # User Story
 AS A user, I want to be able to write and save notes
