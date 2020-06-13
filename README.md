@@ -12,6 +12,10 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 # Screenshot 
+<img width="1199" alt="Screen Shot 2020-06-13 at 1 42 42 PM" src="https://user-images.githubusercontent.com/56641651/84575540-c2dbf880-ad7b-11ea-8372-212926d60df9.png">
+
+<img width="1218" alt="Screen Shot 2020-06-13 at 1 42 56 PM" src="https://user-images.githubusercontent.com/56641651/84575550-cbccca00-ad7b-11ea-8ee1-26426a0a691b.png">
+
 
 # Acceptance Criteria 
 
